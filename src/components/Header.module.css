@@ -1,0 +1,15 @@
+.nav {
+    background: #fff;
+    padding:22px 30px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+    transition: 0.7s;
+    margin-bottom: 26px;
+}
+
+.nav:hover {
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.4);
+}
+
+.nav img {
+    max-width:100px;
+}
